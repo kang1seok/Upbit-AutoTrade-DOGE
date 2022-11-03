@@ -1,17 +1,17 @@
 # Upbit-AutoTrade-DOGE
 Upbit-AutoTrade-DOGE
-### pyupbit 라이브러리를 활용하여 upbit 거래소에서 비트코인 자동매매를 하는 코드입니다.
+### pyupbit 라이브러리를 활용하여 upbit 거래소에서 도지코인 자동매매를 하는 코드입니다.
 
 ### 파일 구성
 - test.py : 잔고 조회 (1강)
 - backtest.py : 백테스팅 코드 (2강)
 - bestK.py : 가장 좋은 k 값을 찾는 코드 (2강)
-- bitcoinAutoTrade.py : 변동성 돌파 전략 비트코인 자동매매 코드 (2강)
-- bitcoinAutoTradeWithAI.py : 변동성 돌파 전략 + 인공지능(Prophet) 비트코인 자동매매 코드 (3강)
-- bitcoinAutoTradeWithMA.py : 변동성 돌파 전략 + 15일 이동평균선 이상 비트코인 자동매매 코드 (2강)
+- bitcoinAutoTrade.py : 변동성 돌파 전략 도지코인 자동매매 코드 (2강)
+- bitcoinAutoTradeWithAI.py : 변동성 돌파 전략 + 인공지능(Prophet) 도지코인 자동매매 코드 (3강)
+- bitcoinAutoTradeWithMA.py : 변동성 돌파 전략 + 15일 이동평균선 이상 도지코인 자동매매 코드 (2강)
 - bitcoinAutoTradeWithSlack.py : 위 코드에 슬랙 붙여 놓은 것 (2강)
 - 강의 보러가기:  https://youtube.com/playlist?list=PLU9-uwewPMe3KKFMiIm41D5Nzx_fx2PUJ
-- 위 코드는 "파이썬을 이용한 비트코인 자동매매 (개정판)"을 참고하여 제작되었습니다.
+- 위 코드는 "파이썬을 이용한 도지코인 자동매매 (개정판)"을 참고하여 제작되었습니다.
 - 참고 문헌: https://wikidocs.net/book/1665
 
 ### Ubuntu 서버 명령어
